@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mssql-jdbc-9.2.1.jre15">
+    <archive path="C:/Users/WELCOME/Desktop/myPuzzle/lib/mssql-jdbc-9.2.1.jre15.jar" />
+  </library>
+</eclipse-userlibraries>
+

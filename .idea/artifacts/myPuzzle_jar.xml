@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myPuzzle:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="myPuzzle.jar">
+      <element id="module-output" name="myPuzzle" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mssql-jdbc-9.2.1.jre15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
